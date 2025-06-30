@@ -1,0 +1,19 @@
+total 68
+-rw-r--r-- 1 atienodavine atienodavine   12 Jun 27 13:11 *\'"Best School"'\*$?*****:)
+drwxr-xr-x 2 atienodavine atienodavine 4096 Jun 27 13:29 .
+drwxr-xr-x 7 atienodavine atienodavine 4096 Jun 27 10:56 ..
+-rwxr-xr-x 1 atienodavine atienodavine   32 Jun 27 11:37 0-hello_world
+-rw-r--r-- 1 atienodavine atienodavine   28 Jun 27 11:45 1-confuse_smiley
+-rwxr-xr-x 1 atienodavine atienodavine   28 Jun 27 11:47 1-confused_smiley
+-rwxr-xr-x 1 atienodavine atienodavine   28 Jun 27 11:54 2-hellofile
+-rwxr-xr-x 1 atienodavine atienodavine   39 Jun 27 12:09 3-twofiles
+-rwxr-xr-x 1 atienodavine atienodavine   35 Jun 27 12:16 4-lastlines
+-rwxr-xr-x 1 atienodavine atienodavine   35 Jun 27 12:29 5-firstlines
+-rwxr-xr-x 1 atienodavine atienodavine   41 Jun 27 12:57 6-third_line
+-rwxr-xr-x 1 atienodavine atienodavine   69 Jun 27 13:10 7-file
+-rwxr-xr-x 1 atienodavine atienodavine   36 Jun 27 13:28 8-cwd_state
+-rw-r--r-- 1 atienodavine atienodavine   14 Jun 27 11:13 README.md
+-rw-r--r-- 1 atienodavine atienodavine   28 Jun 27 12:36 iacta
+-rw-r--r-- 1 atienodavine atienodavine    0 Jun 27 13:29 ls_cwd_content
+-rw-r--r-- 1 atienodavine atienodavine 1106 Jun 27 13:20 lscwd
+-rw-r--r-- 1 atienodavine atienodavine 1176 Jun 27 13:21 lscwdcontent
