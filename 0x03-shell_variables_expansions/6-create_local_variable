@@ -1,0 +1,9 @@
+#!/bin/bash
+
+my_function() {
+    local BEST="School"
+    echo "BEST is set to: $BEST"
+}
+
+my_function
+
