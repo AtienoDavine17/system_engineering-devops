@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script loops from 1 to 10 and prints "bad luck" on 4, "good luck" on 8, and "Best School" otherwise
 
 i=1
 

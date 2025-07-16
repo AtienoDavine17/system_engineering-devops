@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script lists non-hidden files in the current directory, showing only the part of each filename after the first dash
 
 for file in *; do
   # Skip if not a regular file
@@ -6,4 +7,3 @@ for file in *; do
   # Extract everything after the first dash, if present
   echo "${file#*-}"
 done
-
