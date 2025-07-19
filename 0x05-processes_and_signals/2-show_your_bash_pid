@@ -1,6 +1,4 @@
-#!/bin/bash
-# Display Bash PIDs
+#!/usr/bin/env bash
+# This script displays running processes containing the word "bash"
 # shellcheck disable=SC2009
-
-ps -u "$USER" | grep bash
-
+ps -fu "$USER" | grep bash
