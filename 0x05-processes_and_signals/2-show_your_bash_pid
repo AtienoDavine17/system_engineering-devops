@@ -1,0 +1,6 @@
+#!/bin/bash
+# Display Bash PIDs
+# shellcheck disable=SC2009
+
+ps -u "$USER" | grep bash
+
