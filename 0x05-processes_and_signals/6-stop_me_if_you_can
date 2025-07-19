@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+if pkill -f "./4-to_infinity_and_beyond"; then
+  echo "Process stopped."
+else
+  echo "Process not running."
+fi

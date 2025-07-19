@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Get the PID of the running 7-highlander script
+pid=$(pgrep -f 7-highlander)
+
+# Send SIGTERM to it
+[ -n "$pid" ] && kill -TERM "$pid"
+

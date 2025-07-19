@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Script to stop the 4-to_infinity_and_beyond process
+
+# shellcheck disable=SC2009
+PID=$(ps -eo pid,cmd | grep "[4]-to_infinity_and_beyond" | awk '{print $1}')
+
+# Check if PID is found and kill the process
+if [ -n "$PID" ]; then
+  kill "$PID"
+fi
+
