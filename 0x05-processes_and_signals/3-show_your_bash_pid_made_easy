@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Show only the processes whose command contains the word “bash”
-# shellcheck disable=SC2009
+# This script shows the PID and process name for all bash processes
 
-ps -eo user,pid,%cpu,%mem,vsz,rss,tty,stat,start,time,cmd --forest | grep bash
+pgrep -a bash | awk '{print $1, $2}'
